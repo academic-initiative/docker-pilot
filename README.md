@@ -68,10 +68,14 @@ When opening the URL you should be taken to a fresh Node-RED board.
 
 The labs can now be completed in this environment. 
 
+---------------------------------------------------------------------
+
 _**Build a Node-RED App that Reveals Real-time Earthquakes**_
 
 **Lab Guide:**
 [Earthquake.pdf](https://github.ibm.com/BenLaRue/DockerPilot/files/1094941/Earthquake.pdf)
+
+---------------------------------------------------------------------
 
 _**Where Over the World is the International Space Station?**_
 
